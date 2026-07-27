@@ -186,7 +186,7 @@ This project demonstrated how deep learning can assist healthcare professionals 
 COVID-19-Image-Classification-using-Capsule-Networks/
 │
 ├── Blank_Version_COVID19_Capsule_Network.ipynb
-├── Finshed_Version_COVID19_Capsule_Network.ipynb
+├── Finished_Version_COVID19_Capsule_Network.ipynb
 ├── README.md
 ```
 
